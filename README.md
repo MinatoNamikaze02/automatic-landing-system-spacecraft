@@ -30,7 +30,7 @@ A repository containing python notebooks with (purely) Image Processing techniqu
     * closing 
     * thinning
     * hit or miss transform
-    * object coordinate extractiong and size estimation using morphological techniques and otsu's algorithm.
+    * object coordinate extraction and size estimation using morphological techniques and otsu's algorithm.
   
 - Freq-domain.ipynb
   * Applied band-pass and band-reject filter.
