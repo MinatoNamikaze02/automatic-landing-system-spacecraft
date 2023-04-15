@@ -42,7 +42,6 @@ A repository containing python notebooks with (purely) Image Processing techniqu
  * `matplotlib`
  
  Remarks
- * There is NO computer vision involvement here.
  * Only covered my contributions to the project.
  
  
